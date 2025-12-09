@@ -1,4 +1,6 @@
-import cv2, streamlit as st, numpy as np
+import cv2 
+import streamlit as st
+import numpy as np
 from ultralytics import YOLO
 from PIL import Image
 
